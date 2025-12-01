@@ -312,4 +312,4 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         print(f'\n{Wh}[ {Re}! {Wh}] {Re}Exit')
         time.sleep(2)
-        exit()
+        
